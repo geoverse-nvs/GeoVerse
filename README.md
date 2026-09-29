@@ -1,7 +1,7 @@
 # GeoVerse: World-Consistent Novel View Synthesis in Geometric Latent Space
 
 [![Project Website](https://img.shields.io/badge/GeoVerse-Website-4CAF50?logo=googlechrome&logoColor=white)](https://geoverse-nvs.github.io/)
-[![arXiv](https://img.shields.io/badge/arXiv-coming_soon-b31b1b?logo=arxiv&logoColor=white)](https://geoverse-nvs.github.io/)
+[![arXiv](https://img.shields.io/badge/arXiv-2609.35734-b31b1b?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2609.35734)
 [![Demo](https://img.shields.io/badge/Video-Demo-547354)](https://geoverse-nvs.github.io/#demo)
 
 [Kerui Ren](https://scholar.google.com/citations?user=5kW5apkAAAAJ), [Tao Lu](https://scholar.google.com/citations?user=Ch28NiIAAAAJ), [Linning Xu](https://eveneveno.github.io/lnxu/), [Changjian Jiang](https://scholar.google.com/citations?user=V4miywEAAAAJ), Hunag Mu, Chunhua Shen, [Mulin Yu<sup>†</sup>](https://scholar.google.com/citations?user=w0Od3hQAAAAJ), [Bo Dai<sup>†</sup>](https://daibo.info/)
